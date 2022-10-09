@@ -12,30 +12,16 @@ OK, Continue...... 3rd Time Good
 
 20221008 branch weiyunfu
 
-<<<<<<< HEAD
 20221008 branch weiyunfu in 0000_github
-=======
 modify in dev branch.
->>>>>>>
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
+
 dev branch on 0001_github
-=======
 
 stash01
->>>>>>> Stashed changes
-=======
 
 stash01
->>>>>>> Stashed changes
-=======
 
 stash01
->>>>>>> Stashed changes
-=======
 
 stash01
->>>>>>> Stashed changes
